@@ -26,6 +26,13 @@
       "isBanned": false,
       "banReason": "",
       "userRank": "VIP"
+    },
+    "DPMods-U6G9GN": {
+      "hwid": "RESET84ECD7CB30F1E2AB",
+      "expireDate": "2026-05-12",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "VIP"
     }
   }
 }
